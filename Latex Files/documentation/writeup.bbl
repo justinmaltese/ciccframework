@@ -1,0 +1,45 @@
+\begin{thebibliography}{1}
+
+\bibitem{pareto3}
+D.~Brockhoff, T.~Friedrich, N.~Hebbinghaus, C.~Klein, F.~Neumann, and
+  E.~Zitzler.
+\newblock On the effects of adding objectives to plateau functions.
+\newblock {\em Evolutionary Computation, IEEE Transactions on}, 13(3):591--603,
+  June 2009.
+
+\bibitem{hypervol}
+M.~Fleischer.
+\newblock The measure of pareto optima applications to multi-objective
+  metaheuristics.
+\newblock In {\em Proceedings of the 2Nd International Conference on
+  Evolutionary Multi-criterion Optimization}, EMO'03, pages 519--533, Berlin,
+  Heidelberg, 2003. Springer-Verlag.
+
+\bibitem{scalability}
+K.R. Harrison, A.P. Engelbrecht, and B.M. Ombuki-Berman.
+\newblock A scalability study of multi-objective particle swarm optimizers.
+\newblock In {\em Evolutionary Computation (CEC), 2013 IEEE Congress on}, pages
+  189--197, June 2013.
+
+\bibitem{pareto}
+K.~Ikeda, H.~Kita, and S.~Kobayashi.
+\newblock Failure of pareto-based moeas: does non-dominated really mean near to
+  optimal?
+\newblock In {\em Evolutionary Computation, 2001. Proceedings of the 2001
+  Congress on}, volume~2, pages 957--962 vol. 2, 2001.
+
+\bibitem{pareto2}
+O.~Schutze, A.~Lara, and Carlos~A. Coello~Coello.
+\newblock On the influence of the number of objectives on the hardness of a
+  multiobjective optimization problem.
+\newblock {\em Evolutionary Computation, IEEE Transactions on}, 15(4):444--455,
+  Aug 2011.
+
+\bibitem{knea}
+X.~Zhang, Ye~Tian, and Y.~Jin.
+\newblock A knee point driven evolutionary algorithm for many-objective
+  optimization.
+\newblock {\em Evolutionary Computation, IEEE Transactions on}, PP(99):1--1,
+  2014.
+
+\end{thebibliography}

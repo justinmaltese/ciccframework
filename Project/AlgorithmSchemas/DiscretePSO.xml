@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<algorithm id="DPSO" name="Discrete Particle Swarm Optimization" driverClass="com.ciccFramework.algorithms.dpso.DiscretePSOAlgorithm">
+	<parameterSet>
+		<parameter id="MAX_ITERATIONS" label="Maximum number of iterations" type="Integer" defaultValue="200"/>
+		<parameter id="SWARM_SIZE" label="Swarm size" type="Integer" defaultValue="400"/>	
+		<parameter id="INERTIAL_WEIGHT" label="Inertial weight value" type="Double" defaultValue="0.7"/>
+		<parameter id="COGNITIVE_WEIGHT" label="Cognitive weight value" type="Double" defaultValue="1.4"/>	
+		<parameter id="SOCIAL_WEIGHT" label="Social weight value" type="Double" defaultValue="1.4"/>
+		<parameter id="GBEST_MUTATION_PROBABILITY" label="Probability of variable mutating to gBest" type="Double" defaultValue="0.15"/>	
+		<parameter id="PBEST_MUTATION_PROBABILITY" label="Probability of variable mutating to pBest" type="Double" defaultValue="0.05"/>	
+	</parameterSet>
+</algorithm>

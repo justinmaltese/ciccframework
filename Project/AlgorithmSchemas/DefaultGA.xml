@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<algorithm id ="GA" name="Genetic Algorithm" driverClass="com.ciccFramework.algorithms.ga.GeneticAlgorithm">
+	<parameterSet>
+		<parameter id="MAX_ITERATIONS" label="Maximum number of iterations" type="Integer" defaultValue="200"/>
+		<parameter id="POP_SIZE" label="Population size" type="Integer" defaultValue="400"/>	
+		<parameter id="CROSSOVER_RATE" label="Crossover rate" type="Double" defaultValue="0.85"/>
+		<parameter id="MUTATION_RATE" label="Mutation rate" type="Double" defaultValue="0.10"/>	
+		<parameter id="ELITISM" label="Elitism" type="Boolean" defaultValue="true"/>	
+		<parameter id="TOURNAMENT_SIZE" label="Tournament size" type="Integer" defaultValue="3"/>
+	</parameterSet>
+</algorithm>

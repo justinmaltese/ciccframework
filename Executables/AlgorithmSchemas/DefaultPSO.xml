@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<algorithm id="PSO" name="Particle Swarm Optimization" driverClass="com.ciccFramework.algorithms.pso.PSOAlgorithm">
+	<parameterSet>
+		<parameter id="MAX_ITERATIONS" label="Maximum number of iterations" type="Integer" defaultValue="200"/>
+		<parameter id="SWARM_SIZE" label="Swarm size" type="Integer" defaultValue="400"/>	
+		<parameter id="INERTIAL_WEIGHT" label="Inertial weight value" type="Double" defaultValue="0.7"/>
+		<parameter id="COGNITIVE_WEIGHT" label="Cognitive weight value" type="Double" defaultValue="1.4"/>	
+		<parameter id="SOCIAL_WEIGHT" label="Social weight value" type="Double" defaultValue="1.4"/>
+	</parameterSet>
+</algorithm>

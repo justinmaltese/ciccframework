@@ -1,0 +1,28 @@
+\documentclass[12pt, letterpaper]{article}
+\usepackage{multirow}
+\usepackage[right=0.5in,left=0.5in]{geometry}
+\begin{document}
+
+\begin{table}[t!]
+\begin{tabular}{|l||l|ccccc| }\hline
+&& \multicolumn{5}{ |c| }{\textbf{Problem}} \\
+\textbf{Algorithm} & \textbf{Metric} & $K_5(4,2)$ & $K_5(5,3)$ & $K_5(5,2)$ & $K_5(6,2)$ & $K_5(6,3)$  \\ \hline \hline
+\multirow{2}{*}{Genetic Algorithm}
+& Best & 11(1/10) & 10(1/10) & 51(6/10) & 213(2/10) & 39(2/10) \\ \cline{2-7}
+& Average & 12.9 & 10.9 & 51.8 & 216.3 & 40.1 \\ \hline
+\multirow{2}{*}{Particle Swarm Optimization}
+& Best & 14(3/10) & 11(2/10) & 61(2/10) & 254(1/10) & 44(1/10) \\ \cline{2-7}
+& Average & 14.7 & 11.8 & 62.3 & 261.2 & 45.2 \\ \hline
+\multirow{2}{*}{Discrete Particle Swarm Optimization}
+& Best & 13(1/10) & 11(2/10) & 61(5/10) & 248(1/10) & 44(1/10) \\ \cline{2-7}
+& Average & 13.9 & 11.8 & 61.6 & 257.7 & 45.2 \\ \hline
+\multirow{2}{*}{Differential Evolution}
+& Best & 14(1/10) & 11(1/10) & 61(4/10) & 258(1/10) & 45(9/10) \\ \cline{2-7}
+& Average & 14.9 & 11.9 & 61.8 & 261.3 & 45.1 \\ \hline
+\multirow{2}{*}{Discrete Differential Evolution}
+& Best & 13(1/10) & 11(5/10) & 58(1/10) & 252(3/10) & 44(5/10) \\ \cline{2-7}
+& Average & 13.9 & 11.5 & 60.8 & 253.5 & 44.5 \\ \hline
+\end{tabular}
+\end{table}
+
+\end{document}

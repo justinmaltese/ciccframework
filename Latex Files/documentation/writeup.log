@@ -1,0 +1,470 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.2)  10 JAN 2016 23:27
+entering extended mode
+**C:/Users/JMALTESE.INFONETWORK/Desktop/5P01/Project/documentation/writeup.tex
+(C:/Users/JMALTESE.INFONETWORK/Desktop/5P01/Project/documentation/writeup.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\mathptmx.sty"
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+(C:\Users\JMALTESE.INFONETWORK\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fa
+ncyhdr.sty
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count87
+\float@exts=\toks14
+\float@box=\box26
+\@float@everytoks=\toks15
+\@floatcapt=\box27
+)
+(C:\Users\JMALTESE.INFONETWORK\AppData\Roaming\MiKTeX\2.9\tex\latex\setspace\se
+tspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(C:\Users\JMALTESE.INFONETWORK\AppData\Roaming\MiKTeX\2.9\tex\latex\subfigure\s
+ubfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip52
+\subfigcapskip=\skip53
+\subfigcaptopadj=\dimen105
+\subfigbottomskip=\skip54
+\subfigcapmargin=\dimen106
+\subfiglabelskip=\skip55
+\c@subfigure=\count89
+\c@lofdepth=\count90
+\c@subtable=\count91
+\c@lotdepth=\count92
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+
+(C:\Users\JMALTESE.INFONETWORK\AppData\Roaming\MiKTeX\2.9\tex\latex\subfigure\s
+ubfigure.cfg)
+\subfig@top=\skip56
+\subfig@bottom=\skip57
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count93
+\Gm@cntv=\count94
+\c@Gm@tempcnt=\count95
+\Gm@bindingoffset=\dimen107
+\Gm@wd@mp=\dimen108
+\Gm@odd@mp=\dimen109
+\Gm@even@mp=\dimen110
+\Gm@layoutwidth=\dimen111
+\Gm@layoutheight=\dimen112
+\Gm@layouthoffset=\dimen113
+\Gm@layoutvoffset=\dimen114
+\Gm@dimlist=\toks17
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+(C:\Users\JMALTESE.INFONETWORK\Desktop\5P01\Project\documentation\writeup.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 10.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+\big@size=\dimen115
+
+(C:\Users\JMALTESE.INFONETWORK\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp
+-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count96
+\scratchdimen=\dimen116
+\scratchbox=\box28
+\nofMPsegments=\count97
+\nofMParguments=\count98
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count99
+\MPscratchDim=\dimen117
+\MPnumerator=\count100
+\makeMPintoPDFobject=\count101
+\everyMPtoPDFconversion=\toks19
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(90.3375pt, 433.62001pt, 90.3375pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=433.62001pt
+* \textheight=556.47656pt
+* \oddsidemargin=18.0675pt
+* \evensidemargin=18.0675pt
+* \topmargin=-13.87262pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 14
+.
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ztmcm.fd"
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 14
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlztmcm.fd"
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 14
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsztmcm.fd"
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 14
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxztmcm.fd"
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 14.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 14.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 14.
+ [1
+
+{C:/Users/JMALTESE.INFONETWORK/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.ma
+p}]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 18.
+
+(C:\Users\JMALTESE.INFONETWORK\Desktop\5P01\Project\documentation\writeup.toc
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
+)
+\tf@toc=\write3
+
+[1]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 29.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 29.
+
+<Images/Installation.png, id=10, 373.395pt x 150.5625pt>
+File: Images/Installation.png Graphic file (type png)
+
+<use Images/Installation.png>
+Package pdftex.def Info: Images/Installation.png used on input line 44.
+(pdftex.def)             Requested size: 284.52756pt x 114.73422pt.
+ [2 <C:/Users/JMALTESE.INFONETWORK/Desktop/5P01/Project/documentation/Images/In
+stallation.png>] [3]
+<Images/SchemaExample.png, id=24, 827.34094pt x 162.6075pt>
+File: Images/SchemaExample.png Graphic file (type png)
+
+<use Images/SchemaExample.png>
+Package pdftex.def Info: Images/SchemaExample.png used on input line 82.
+(pdftex.def)             Requested size: 512.1496pt x 100.66177pt.
+
+Overfull \hbox (78.52959pt too wide) in paragraph at lines 82--83
+ [][] 
+ []
+
+[4 <C:/Users/JMALTESE.INFONETWORK/Desktop/5P01/Project/documentation/Images/Sch
+emaExample.png>]
+Overfull \hbox (13.56758pt too wide) in paragraph at lines 96--97
+\OT1/ptm/m/n/10 Problems with $\OML/ztmcm/m/it/10 q > \OT1/ztmcm/m/n/10 3$ \OT1
+/ptm/m/n/10 re-quire pre-computed com-pat-i-bil-ity ma-tri-ces, stored in .ma-t
+rix files within the $\OML/ztmcm/m/it/10 Compatibility$
+ []
+
+<Images/CompatibilityMatrix.png, id=28, 158.84344pt x 350.05782pt>
+File: Images/CompatibilityMatrix.png Graphic file (type png)
+
+<use Images/CompatibilityMatrix.png>
+Package pdftex.def Info: Images/CompatibilityMatrix.png used on input line 100.
+
+(pdftex.def)             Requested size: 113.81102pt x 250.82358pt.
+ [5]
+<Images/guiSteps/step1.png, id=32, 410.2828pt x 193.47281pt>
+File: Images/guiSteps/step1.png Graphic file (type png)
+
+<use Images/guiSteps/step1.png>
+Package pdftex.def Info: Images/guiSteps/step1.png used on input line 114.
+(pdftex.def)             Requested size: 256.0748pt x 120.75192pt.
+
+<Images/guiSteps/step2.png, id=33, 587.94656pt x 319.1925pt>
+File: Images/guiSteps/step2.png Graphic file (type png)
+
+<use Images/guiSteps/step2.png>
+Package pdftex.def Info: Images/guiSteps/step2.png used on input line 121.
+(pdftex.def)             Requested size: 426.79134pt x 231.7033pt.
+ [6 <C:/Users/JMALTESE.INFONETWORK/Desktop/5P01/Project/documentation/Images/Co
+mpatibilityMatrix.png> <C:/Users/JMALTESE.INFONETWORK/Desktop/5P01/Project/docu
+mentation/Images/guiSteps/step1.png>]
+<Images/guiSteps/step3.png, id=38, 585.68813pt x 322.20375pt>
+File: Images/guiSteps/step3.png Graphic file (type png)
+
+<use Images/guiSteps/step3.png>
+Package pdftex.def Info: Images/guiSteps/step3.png used on input line 128.
+(pdftex.def)             Requested size: 455.24408pt x 250.45262pt.
+
+Overfull \hbox (21.62407pt too wide) in paragraph at lines 128--129
+ [][] 
+ []
+
+<Images/guiSteps/step4.png, id=39, 586.44093pt x 317.68687pt>
+File: Images/guiSteps/step4.png Graphic file (type png)
+
+<use Images/guiSteps/step4.png>
+Package pdftex.def Info: Images/guiSteps/step4.png used on input line 135.
+(pdftex.def)             Requested size: 426.79134pt x 231.20174pt.
+ [7 <C:/Users/JMALTESE.INFONETWORK/Desktop/5P01/Project/documentation/Images/gu
+iSteps/step2.png> <C:/Users/JMALTESE.INFONETWORK/Desktop/5P01/Project/documenta
+tion/Images/guiSteps/step3.png>]
+<Images/guiSteps/step5.png, id=43, 588.69937pt x 319.94531pt>
+File: Images/guiSteps/step5.png Graphic file (type png)
+
+<use Images/guiSteps/step5.png>
+Package pdftex.def Info: Images/guiSteps/step5.png used on input line 142.
+(pdftex.def)             Requested size: 455.24408pt x 247.41803pt.
+
+Overfull \hbox (21.62407pt too wide) in paragraph at lines 142--143
+ [][] 
+ []
+
+<Images/guiSteps/step6.png, id=44, 587.94656pt x 321.45094pt>
+File: Images/guiSteps/step6.png Graphic file (type png)
+
+<use Images/guiSteps/step6.png>
+Package pdftex.def Info: Images/guiSteps/step6.png used on input line 149.
+(pdftex.def)             Requested size: 426.79134pt x 233.3427pt.
+ [8 <C:/Users/JMALTESE.INFONETWORK/Desktop/5P01/Project/documentation/Images/gu
+iSteps/step4.png> <C:/Users/JMALTESE.INFONETWORK/Desktop/5P01/Project/documenta
+tion/Images/guiSteps/step5.png>]
+<Images/guiSteps/step7.png, id=48, 587.94656pt x 319.1925pt>
+File: Images/guiSteps/step7.png Graphic file (type png)
+
+<use Images/guiSteps/step7.png>
+Package pdftex.def Info: Images/guiSteps/step7.png used on input line 156.
+(pdftex.def)             Requested size: 455.24408pt x 247.14758pt.
+
+Overfull \hbox (21.62407pt too wide) in paragraph at lines 156--157
+ [][] 
+ []
+
+[9 <C:/Users/JMALTESE.INFONETWORK/Desktop/5P01/Project/documentation/Images/gui
+Steps/step6.png> <C:/Users/JMALTESE.INFONETWORK/Desktop/5P01/Project/documentat
+ion/Images/guiSteps/step7.png>]
+<Images/guiSteps/step8.png, id=52, 417.05812pt x 158.84344pt>
+File: Images/guiSteps/step8.png Graphic file (type png)
+
+<use Images/guiSteps/step8.png>
+Package pdftex.def Info: Images/guiSteps/step8.png used on input line 163.
+(pdftex.def)             Requested size: 455.24408pt x 173.39767pt.
+
+Overfull \hbox (21.62407pt too wide) in paragraph at lines 163--164
+ [][] 
+ []
+
+[10 <C:/Users/JMALTESE.INFONETWORK/Desktop/5P01/Project/documentation/Images/gu
+iSteps/step8.png>]
+Overfull \hbox (16.93596pt too wide) in paragraph at lines 174--175
+[]\OT1/ptm/m/n/10 Load a hashmap of all avail-able al-go-rithm schemas us-ing \
+OT1/cmtt/m/n/10 XMLSchemaLoader.loadAlgorithmSchemas() 
+ []
+
+<Images/ExecutionHandlerExample.png, id=56, 541.27219pt x 590.205pt>
+File: Images/ExecutionHandlerExample.png Graphic file (type png)
+
+<use Images/ExecutionHandlerExample.png>
+Package pdftex.def Info: Images/ExecutionHandlerExample.png used on input line 
+189.
+(pdftex.def)             Requested size: 540.60236pt x 589.49208pt.
+
+Overfull \hbox (106.98235pt too wide) in paragraph at lines 189--190
+ [][] 
+ []
+
+[11
+
+]
+Overfull \vbox (33.01552pt too high) has occurred while \output is active []
+
+
+[12 <C:/Users/JMALTESE.INFONETWORK/Desktop/5P01/Project/documentation/Images/Ex
+ecutionHandlerExample.png>]
+LaTeX Font Info:    Try loading font information for OML+ptm on input line 196.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlptm.fd"
+File: omlptm.fd 
+)
+LaTeX Font Info:    Font shape `OML/ptm/m/it' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 196.
+ [13]
+(C:\Users\JMALTESE.INFONETWORK\Desktop\5P01\Project\documentation\writeup.aux) 
+) 
+Here is how much of TeX's memory you used:
+ 2252 strings out of 493921
+ 32347 string characters out of 3147238
+ 88641 words of memory out of 3000000
+ 5498 multiletter control sequences out of 15000+200000
+ 34742 words of font info for 72 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 27i,6n,43p,991b,218s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times
+/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on writeup.pdf (14 pages, 506190 bytes).
+PDF statistics:
+ 91 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+

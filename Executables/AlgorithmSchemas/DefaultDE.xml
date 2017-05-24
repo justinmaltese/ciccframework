@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<algorithm id = "DE" name="Differential Evolution" driverClass="com.ciccFramework.algorithms.de.DifferentialEvolutionAlgorithm">
+	<parameterSet>
+		<parameter id="MAX_ITERATIONS" label="Maximum number of iterations" type="Integer" defaultValue="200"/>
+		<parameter id="POP_SIZE" label="Population size" type="Integer" defaultValue="400"/>	
+		<parameter id="CROSSOVER_PROBABILITY" label="Crossover probability" type="Double" defaultValue="0.8"/>
+		<parameter id="DIFFERENTIAL_WEIGHT" label="Differential weight" type="Double" defaultValue="1.0"/>	
+	</parameterSet>
+</algorithm>
