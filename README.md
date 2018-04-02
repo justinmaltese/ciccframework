@@ -48,7 +48,7 @@ problem I’m trying to run?
 The compatibility matrix can be generated using the matrix generator interface.
 3. __Q:__ When loading algorithm schemas, the program throws an exception?
 
-   __A:__ This error occurs when their is a formatting problem within the XML schema files. Ensure that the
+   __A:__ This error occurs when there is a formatting problem within the XML schema files. Ensure that the
 file is in the correct format, detailed in Section 3.2.
 
 4. __Q:__ When loading my desired algorithm schema, the loaded schema is incorrect!
